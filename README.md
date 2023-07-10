@@ -15,9 +15,8 @@ This is an example workflow to assemble a chromosomal segment of a wheat blast f
 
 - __Required software and versions__: 
    
-    - [Guppy v6.0.6](https://community.nanoporetech.com/downloads)
+   
     - [Canu v2.2](https://github.com/marbl/canu)
-    - [Nanopolish v0.13.2](https://github.com/jts/nanopolish)
     - [Pilon v1.24](https://github.com/broadinstitute/pilon) 
     - [conda](https://docs.conda.io/en/latest/)
 
